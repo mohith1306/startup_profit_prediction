@@ -16,7 +16,9 @@ It leverages both **Linear Regression** and **Random Forest Regressor**, achievi
 
 ## 📸 Actual vs Predicted Plot
 
-![Actual vs Predicted](visualize/actual_vs_predicted.png)
+![Actual vs Predicted for linear regression](visualize/visualize/actualvspredicted_linear_regression.png)
+![Actual vs Predicted for random forest regression](visualize/visualize/actualvspredicted_random_forest_regression.png)
+
 
 ---
 
